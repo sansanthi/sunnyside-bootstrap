@@ -234,8 +234,6 @@ picture {
   left: 50%;
   transform: translateX(-50%);
   border-radius: 20px;
-  /* color: hsl(7, 99%, 70%); */
-  
 }
 
  .link-yellow::after {
@@ -265,7 +263,6 @@ picture {
 }
 .design-box p {
   height: 100px;
-  /* justify-self: flex-end; */
 }
 .design-box .text-box {
   position: absolute;
@@ -320,14 +317,10 @@ picture {
 .section-showImage img {
   width: 100%;
 }
-/* .section-showImage > .container {
+.section-showImage > .container {
   max-width: 100%;
-} */
-/* @media screen and (min-width: 567px) and (min-width: 1200px) {
-  .section-showImage .container {
-    max-width: 100%;
-  }
-} */
+}
+
 
 /* Footer */
 
