@@ -16,7 +16,7 @@
 
 
 ## Overview
-Landingpage that can test layout and responsive skills
+This project required me to build a fully responsive landing page to the designs provided. I used Bootstrap, along with CSS to customize navigation feature in mobile view. 
 
 ### The challenge
 
