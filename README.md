@@ -11,8 +11,6 @@
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
-- [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 
 ## Overview
@@ -94,15 +92,10 @@ To see how you can add code snippets, see below:
 ```
 
 ### Continued development
-In this challenge there are issues with navbar collapse with toggler. I have to fix navbar toggler action. And need to learn Bootstrap.
+In this challenge there are issues with navbar collapse with toggler. I have to fix navbar toggler action. And need to learn Bootstrap more.
 
 
 ### Useful resources
 
 - https://stackoverflow.com/
 
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
-
-## Acknowledgments
-Google search and https://stackoverflow.com/
